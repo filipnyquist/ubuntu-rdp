@@ -1,5 +1,5 @@
 FROM ubuntu:15.10
-MAINTAINER swined@gmail.com
+MAINTAINER fillerix99@gmail.com
 
 ENV DEBIAN_FRONTEND noninteractive
 RUN echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list
